@@ -1,0 +1,13 @@
+@relation desicion
+@attribute age{young,middle,old}
+@attribute income{high,medium,low}
+@attribute student{no,yes}
+@attribute credit_rating{fair,excellent}
+@attribute buys_computer{no,yes}
+
+@data
+young,high,no,fair,no
+young,high,no,excellent,no
+middle,high,no,fair,yes
+middle,low,yes,excellent,yes
+  DATA KONCHAM MARCHALI INKA SONTHANGA QUESTION CHUSSSI KOTALLI
